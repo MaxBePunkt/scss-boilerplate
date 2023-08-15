@@ -17,5 +17,5 @@ npm install -g sass
 - run build command from command line:
 
 ```bash
-sass --watch scss/main.scss:css/main.css
+sass --watch sass/main.scss:css/main.css
 ```
